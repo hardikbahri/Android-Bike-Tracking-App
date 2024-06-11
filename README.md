@@ -42,8 +42,3 @@ Google Play Services Location API: To access the FusedLocationProviderClient for
 
 
 
-# License
-This project is licensed under the MIT License.
-
-
-
